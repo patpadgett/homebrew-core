@@ -1,8 +1,8 @@
 class Iir1 < Formula
   desc "DSP IIR realtime filter library written in C++"
   homepage "https://berndporr.github.io/iir1/"
-  url "https://github.com/berndporr/iir1/archive/refs/tags/1.10.0.tar.gz"
-  sha256 "13b53f14d276adf6cafd3564fcda1d4b3e72342108d1c40ec4b4f0c7fc3ac95a"
+  url "https://github.com/berndporr/iir1/archive/refs/tags/1.11.0.tar.gz"
+  sha256 "1a0f702f6787d9d38dd54e96ae82a4764766c506eeaff47f84f63eba9b5774e0"
   license "MIT"
 
   bottle do
